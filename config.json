@@ -1,0 +1,25 @@
+{
+    "development": {
+      "username": "zarnas",
+      "password": "9XB7bCWfgJqKyjRtGZ4vvfM68RunVWc5",
+      "database": "zarnas",
+      "host": "15.206.7.200",
+      "dialect": "mysql",
+      "port": "3310"
+    },
+    "test": {
+      "username": "zarnas",
+      "password": "9XB7bCWfgJqKyjRtGZ4vvfM68RunVWc5",
+      "database": "zarnas",
+      "host": "15.206.7.200",
+      "dialect": "mysql"
+    
+    },
+    "production": {
+      "username": "zarnas",
+      "password": "9XB7bCWfgJqKyjRtGZ4vvfM68RunVWc5",
+      "database": "zarnas",
+      "host": "15.206.7.200",
+      "dialect": "mysql"
+    }
+  }
